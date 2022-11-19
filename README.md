@@ -1,6 +1,4 @@
 - 👋 Ahoy, I’m @code-rius ( ͡° ͜ʖ ͡°)
-- 👀  
-- 🌱 I’m currently learning react and node JS
 - I'm interested in Web technologies, AI and IOT.
 ```
 ⊂_ヽ
