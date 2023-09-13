@@ -1,2 +1,1 @@
-- 👋 Ahoy, I’m @code-rius ( ͡° ͜ʖ ͡°)
-- I'm interested in Web technologies, AI and IOT.
+
